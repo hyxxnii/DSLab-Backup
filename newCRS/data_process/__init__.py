@@ -1,2 +1,0 @@
-import redial_process
-import senti_process
